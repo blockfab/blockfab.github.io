@@ -1,15 +1,8 @@
 ---
 layout: layouts/home.njk
-eleventyNavigation:
-  key: Home
-  order: 1
 ---
 
-{% set maxPosts = collections.posts.length | min(0) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+<h1>Blockchain node as a service</h1>
+<p><strong>Coming in March 2020</strong></p>
 
-{% set postslist = collections.posts | head(0) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
-
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<a href="https://console.blockfab.io">Beta Environment</a>
