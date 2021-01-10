@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Blockfab</title>
-	<subtitle>Give developers access to best-priced blockchain node infrastrucure.</subtitle>
+	<title>blockfab</title>
+	<subtitle>Best-priced blockchain node infrastrucure.</subtitle>
 	
 	<link href="https://blockfab.io/feed/feed.xml" rel="self"/>
 	<link href="https://blockfab.io/"/>

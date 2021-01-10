@@ -1,9 +1,9 @@
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "Blockfab",
+  "title": "blockfab",
   "home_page_url": "https://blockfab.io/",
   "feed_url": "https://blockfab.io/feed/feed.json",
-  "description": "Give developers access to best-priced blockchain node infrastrucure",
+  "description": "Best-priced blockchain node infrastrucure",
   "author": {
     "name": "Patrick Wolleb",
     "url": "https://blockfab.io/about-me/"
