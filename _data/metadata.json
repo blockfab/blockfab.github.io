@@ -1,9 +1,9 @@
 {
-  "title": "Blockfab",
+  "title": "blockfab",
   "url": "https://blockfab.io/",
-  "description": "Give developers access to best-priced blockchain node infrastrucure",
+  "description": "Best-priced blockchain node infrastrucure",
   "feed": {
-    "subtitle": "Give developers access to best-priced blockchain node infrastrucure.",
+    "subtitle": "Best-priced blockchain node infrastrucure.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://blockfab.io/"
